@@ -1,6 +1,6 @@
 //dadatypes
 //number
-console.log("number")
+/*console.log("number")
 var age =30;
 console.log(age)
 //string
@@ -45,7 +45,59 @@ console.log("Array");
 var fruits = ["Apple", "Banana", "Orange"];
 console.log(fruits); 
 console.log(fruits[0]); // Outputs: "Apple"
-console.log(fruits[1]); // Outputs: "Banana"
+console.log(fruits[1]); // Outputs: "Banana"*/
+var factor =""
+var favartplayer =""
+var fmovie ="";
+function favarite(){
+    return "my favorite actor is " +factor +", " my favorite plyare is "+fplayer +" , and my favorite movie is +fmvie +","
+
+}
+console.log(faoite());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

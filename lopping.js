@@ -14,6 +14,12 @@ let student = {
 var number = 2;
 
 for (var i = 1; i <= 10; i = i + 1) {
+    var result = numde do ..while");
+    //for loop
+
+var number = 2;
+
+for (var i = 1; i <= 10; i = i + 1) {
     var result = number * i;
     console.log(number + " x " + i + " = " + result);
 }
@@ -30,7 +36,10 @@ while (i <= 10) {
     
     i = i + 1;
 }
-//do while
+
+
+//Do-While
+
 let count =6
 do{
     console.log(count);

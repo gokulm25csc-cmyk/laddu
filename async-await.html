@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+</body>
+    <script>
+        function getstudent(){
+            return new promise(function(resolve)){
+                setTimeout(function(){
+                    resolve("Arun");
+
+                },3000);
+
+            }
+        }
+        async function displaystudent() {
+            console.log("Loadding student...");
+            let student = awit getstudent();
+            console.log(student);
+
+            
+        }
+        displaystudent();
+    </script>
+</body>
+</html>
